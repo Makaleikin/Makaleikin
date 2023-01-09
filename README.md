@@ -1,5 +1,4 @@
 # <p style="text-align: center;">Hi there!👋</p>
-___
 
 ## 👦*About me*
 
@@ -10,49 +9,39 @@ ___
   + Telegram: [@me4erov](https://t.me/me4erov)
   + Email: armlynskii@gmail.com
 
-___
-
 ## *Additional Education*
 
-
-
-___
 ## 💻*Stack and tools*
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/pycharm.png?raw=true" width="40" height="40" />
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/python.png?raw=true" width="40" height="40" />
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/pytest.png?raw=true" width="40" height="40" />
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/selene.png?raw=true" width="40" height="40" />
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/selenium.png?raw=true" width="40" height="40" />
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/github.png?raw=true" width="40" height="40" />
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/jenkins.png?raw=true" width="40" height="40" />
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/selenoid.png?raw=true" width="40" height="40" />
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/allure_report.png?raw=true" width="40" height="40" />
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/allure_testops.png?raw=true" width="40" height="40" />
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/appium.png?raw=true" width="40" height="40" />
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/browserstack.png?raw=true" width="40" height="40" />
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/jira.png?raw=true" width="40" height="40" />
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/android_studio.png?raw=true" width="40" height="40" />
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/postman.png?raw=true" width="40" height="40" />
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/tg.png?raw=true" width="40" height="40" />
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/browserstack.png?raw=true" width="40" height="40" />
-
-___
+  <code><img width="5%" title="Pycharm" src="img/pycharm.png"></code>
+  <code><img width="5%" title="Python" src="img/python.png"></code>
+  <code><img width="5%" title="Pytest" src="img/pytest.png"></code>
+  <code><img width="5%" title="Selene" src="img/selene.png"></code>
+  <code><img width="5%" title="Selenium" src="img/selenium.png"></code>
+  <code><img width="5%" title="Requests" src="img/requests.png"></code>
+  <code><img width="5%" title="GitHub" src="img/github.png"></code>
+  <code><img width="5%" title="Jenkins" src="img/jenkins.png"></code>
+  <code><img width="5%" title="Docker" src="img/docker.png"></code>
+  <code><img width="5%" title="Selenoid" src="img/selenoid.png"></code>
+  <code><img width="5%" title="Allure Report" src="img/allure_report.png"></code>
+  <code><img width="5%" title="Allure TestOps" src="img/allure_testops.png"></code>
+  <code><img width="5%" title="Appium" src="img/appium.png"></code>
+  <code><img width="5%" title="Browserstack" src="img/browserstack.png"></code>
+  <code><img width="5%" title="Jira" src="img/jira.png"></code>
+  <code><img width="5%" title="Android Studio" src="img/android_studio.png"></code>
+  <code><img width="5%" title="Postman" src="img/postman.png"></code>
+  <code><img width="5%" title="Telegram" src="img/tg.png"></code>
 
 ## 💾*Projects*
+
 ### UI autotests
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/github.png?raw=true" width="40" height="40" />[GitHub project](https://github.com/Makaleikin/diploma_ui_tests)
 
-### Mobile autotests
-
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/github.png?
-raw=true" width="40" height="40" />[GitHub project](https://github.com/Makaleikin/diploma_ui_tests)
+##### <img width="5%" title="GitHub" src="img/github.png"> [GitHub Pages](https://github.com/Makaleikin/diploma_ui_tests)
 
 ### API autotests
+##### <img width="5%" title="GitHub" src="img/github.png"> [GitHub Pages]()
 
-<img src="https://github.com/Makaleikin/Makaleikin/blob/main/img/github.png?
-raw=true" width="40" height="40" />[GitHub project](https://github.com/Makaleikin/diploma_ui_tests)
-
-___
+### Mobile autotests
+##### <img width="5%" title="GitHub" src="img/github.png"> [GitHub Pages](https://github.com/Makaleikin/android_tests_diploma)
 
 ## 📊*Git statistic*
 
