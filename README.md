@@ -1,4 +1,8 @@
-# <p style="text-align: center;">Hi there!👋</p>
+<div align="center">
+   <h1>
+      Hi there!:wave:
+   </h1>
+</div>
 
 ## 👦*About me*
 
