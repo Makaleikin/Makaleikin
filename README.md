@@ -11,6 +11,13 @@
 
 ## *Additional Education*
 
+<table width="100%" border='0'>
+   <tr><td width="30%" valign="bottom"><img src="img/krotov.png"></td><td valign="middle">School of manual QA <a target="_blank" href="https://shultais.education/lms/courses">shultais school</a>.</td></tr>
+   
+   <tr><td width="30%" valign="bottom"><img src="img/qa_guru.png"></td><td valign="middle">School of Auto QA <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+   </tr>
+  </table>
+
 ## 💻*Stack and tools*
   <code><img width="5%" title="Pycharm" src="img/pycharm.png"></code>
   <code><img width="5%" title="Python" src="img/python.png"></code>
