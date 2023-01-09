@@ -17,7 +17,6 @@
   <code><img width="5%" title="Pytest" src="img/pytest.png"></code>
   <code><img width="5%" title="Selene" src="img/selene.png"></code>
   <code><img width="5%" title="Selenium" src="img/selenium.png"></code>
-  <code><img width="5%" title="Requests" src="img/requests.png"></code>
   <code><img width="5%" title="GitHub" src="img/github.png"></code>
   <code><img width="5%" title="Jenkins" src="img/jenkins.png"></code>
   <code><img width="5%" title="Docker" src="img/docker.png"></code>
