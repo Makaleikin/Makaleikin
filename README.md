@@ -12,7 +12,7 @@
 ## *Additional Education*
 
 <table width="100%" border='0'>
-   <tr><td width="10%" valign="bottom"><img src="img/krotov.png"></td><td valign="middle">School of manual QA <a target="_blank" href="https://vk.com/qakrotov">shultais school</a>.</td></tr>
+   <tr><td width="30%" height="5%" valign="bottom"><img src="img/krotov.png"></td><td valign="middle">School of manual QA <a target="_blank" href="https://vk.com/qakrotov">QA School</a>.</td></tr>
    
    <tr><td width="30%" valign="bottom"><img src="img/qa_guru.png"></td><td valign="middle">School of Auto QA <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
