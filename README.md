@@ -6,7 +6,7 @@
 
 ## 👦*About me*
 
-+ I'm manual and a little auto QA Engineer from Novosibirsk
++ I'm manual QA Engineer from Novosibirsk
 + Work experience - 1 year
 + Now I am developing in autotests
 + **Contacts:**
