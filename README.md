@@ -45,7 +45,7 @@
 
 ### UI autotests
 
-### <img width="5%" title="GitHub" src="img/github.png"> [GitHub Pages](https://github.com/Makaleikin/diploma_ui_tests)
+### <a href="https://github.com/Makaleikin/diploma_ui_tests"><img width="5%" title="GitHub" src="img/github.png"> [GitHub Pages](https://github.com/Makaleikin/diploma_ui_tests)
 
 ### API autotests
 ### <img width="5%" title="GitHub" src="img/github.png"> [GitHub Pages](https://github.com/Makaleikin/rest_api_diploma)
