@@ -7,7 +7,7 @@
 ## 👦*About me*
 
 + I'm manual QA Engineer from Novosibirsk
-+ Work experience - 2 year
++ Work experience - 2 years
 + Now I am developing in autotests
 + **Contacts:**
   + Telegram: [@me4erov](https://t.me/me4erov)
